@@ -12,5 +12,4 @@ public class NotificationDelegate {
         System.out.println("Message: " + message);
     }
 
-
 }
